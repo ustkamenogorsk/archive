@@ -102,9 +102,11 @@
 </figure>
 
 <figure>
-  <a href="/photos/troitskaya-ulica-mechet">
-    <img width="720" height="439" alt="Троицкая улица. Татарская мечеть." src="/photos/troitskaya-ulica-mechet/1.jpg" align="center"/>
-  </a>
+  <p align="center">
+    <a href="/photos/troitskaya-ulica-mechet">
+      <img width="720" height="439" alt="Троицкая улица. Татарская мечеть." src="/photos/troitskaya-ulica-mechet/1.jpg" align="center"/>
+    </a>
+  </p>
   <figcaption><p align="center">Троицкая улица. Слева на переднем плане - татарская мечеть. Начало XX в.</p></figcaption>
 </figure>
 
