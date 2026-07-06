@@ -1,6 +1,6 @@
 # Вид с колокольни Покровского собора. Сенной базар
 
-<img src="vid-s-kolokolni-sobora-1.jpg"/>
+<img src="1.jpg"/>
 
 
 > Цитата из книги <a href="/books/1990-Shtrihi-k-portretu-goroda">"Штрихи к портрету города"</a>:
