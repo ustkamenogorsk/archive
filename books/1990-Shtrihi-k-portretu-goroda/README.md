@@ -126,7 +126,7 @@
 <figure>
   <p align="center">
     <a href="./img/1928-zhenskaya-gimnaziya.jpg">
-      <img width="738" height="486" alt="Женская гимназия. Снимок 1928 г." src="./img/1928-zhenskaya-gimnaziya.jpg"/>
+      <img width="369" height="243" alt="Женская гимназия. Снимок 1928 г." src="./img/1928-zhenskaya-gimnaziya.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Женская гимназия. Снимок <b>1928</b> г.</p></figcaption>
@@ -145,7 +145,7 @@
 <figure>
   <p align="center">
     <a href="./img/1970-andreevskaya.jpg">
-      <img width="1319" height="864" alt="Дом на углу Андреевской улицы и Крепостного переулка. 1970 г." src="./img/1970-andreevskaya.jpg"/>
+      <img width="660" height="432" alt="Дом на углу Андреевской улицы и Крепостного переулка. 1970 г." src="./img/1970-andreevskaya.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Дом на углу Андреевской улицы и Крепостного переулка. Снимок <b>1970</b> г.</p></figcaption>
@@ -372,7 +372,7 @@
 <figure>
   <p align="center">
     <a href="./img/1978-ordzh.jpg">
-      <img width="1090" height="722" alt="Улица им. Орджоникидзе. 1978 г." src="./img/1978-ordzh.jpg"/>
+      <img width="545" height="361" alt="Улица им. Орджоникидзе. 1978 г." src="./img/1978-ordzh.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Улица им. Орджоникидзе. <b>1978</b> г.</p></figcaption>
@@ -391,7 +391,7 @@
 <figure>
   <p align="center">
     <a href="./img/1990-myzy.jpg">
-      <img width="954" height="600" alt="Улица им. Мызы. 1990 г." src="./img/1990-myzy.jpg"/>
+      <img width="477" height="300" alt="Улица им. Мызы. 1990 г." src="./img/1990-myzy.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Улица им. Мызы. <b>1990</b> г.</p></figcaption>
