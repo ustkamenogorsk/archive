@@ -188,7 +188,7 @@
 <figure>
   <p align="center">
     <a href="./img/1980-most-ulba.jpg">
-      <img width="811" height="503" alt="Мост через р.Ульбу. 1980 г." src="./img/1980-most-ulba.jpg"/>
+      <img width="541" height="335" alt="Мост через р.Ульбу. 1980 г." src="./img/1980-most-ulba.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Мост через р.Ульбу. <b>1980</b> г.</p></figcaption>
