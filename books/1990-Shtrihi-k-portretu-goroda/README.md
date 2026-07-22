@@ -232,6 +232,17 @@
 
 <figure>
   <p align="center">
+    <a href="./img/1990-ul-ushanova.jpg">
+      <img width="3916" height="1110" alt="Улица им. Ушанова. 1990 г." src="./img/1990-ul-ushanova.jpg"/>
+    </a>
+  </p>
+  <figcaption><p align="center">Улица им. Ушанова. <b>1990</b> г.</p></figcaption>
+</figure>
+
+<br>
+
+<figure>
+  <p align="center">
     <a href="/photos/postcards-gorlov/prihodskoe-uchilische">
       <img width="1536" height="1152" alt="Приходское училище. Начало XX в." src="/photos/postcards-gorlov/prihodskoe-uchilische/1.jpg"/>
     </a>
