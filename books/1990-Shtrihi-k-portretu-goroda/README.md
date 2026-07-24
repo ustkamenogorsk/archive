@@ -426,7 +426,7 @@
 <figure>
   <p align="center">
     <a href="./img/1936-sennoy-pereulok.jpg">
-      <img width="650" height="228" alt="Сенной переулок. 1936 г." src="./img/1936-sennoy-pereulok.jpg"/>
+      <img width="650" height="428" alt="Сенной переулок. 1936 г." src="./img/1936-sennoy-pereulok.jpg"/>
     </a>
   </p>
   <figcaption><p align="center">Сенной переулок. <b>1936</b> г.</p></figcaption>
