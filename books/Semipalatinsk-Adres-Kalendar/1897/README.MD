@@ -12,4 +12,4 @@ Archive.org <a href="https://archive.org/details/semipalatinsk-1897" target="_bl
 
 Текст книги перепечатан с помощью технологий OCR и может содержать ошибки.
 
-При обнаружении ошибки, создайте Pull Request или откройте <a href="/issues/new/choose">новый Issue</a>.
+При обнаружении ошибки, создайте Pull Request или откройте <a href="https://github.com/ustkamenogorsk/archive/issues/new/choose">новый Issue</a>.
